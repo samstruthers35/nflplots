@@ -1,2 +1,2 @@
-# nflplots
-A place to post all my NFL Plots that I have worked on!
+# NFLplots
+An area to keep any NFL vizuals that I have created in R
